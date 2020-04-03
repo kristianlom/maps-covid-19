@@ -1,0 +1,17 @@
+{
+  "name": "covid-19",
+  "version": "1.0.0",
+  "description": "Datos de Covid-19",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Covid-19",
+    "javascript",
+    "googlemaps"
+  ],
+  "author": "Kristian Lopez",
+  "license": "MIT"
+}
